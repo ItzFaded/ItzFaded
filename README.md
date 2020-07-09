@@ -1,5 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on: https://itzfaded.page/about 
+![About Me](https://itzfaded.page/imgs/Cardinal.png)
 <!--
 **ItzFaded/ItzFaded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
